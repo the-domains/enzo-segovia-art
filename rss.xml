@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ART]]></title>
         <description><![CDATA[ART]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/enzo-segovia-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 04:04:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 04:09:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/enzo-segovia-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/178adb2b-66fd-491f-a639-5d27b1733296.png">]]></description>
-            <link>undefinede7cc5238-f2e9-4172-b8da-b18956547f23/index.html</link>
+            <title><![CDATA[Enzo Segovia]]></title>
+            <description><![CDATA[<article><h1>Enzo Segovia</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/178adb2b-66fd-491f-a639-5d27b1733296.png"></article>]]></description>
+            <link>https://thegrid.ai/enzo-segovia-art/e7cc5238-f2e9-4172-b8da-b18956547f23/index.html</link>
             <guid isPermaLink="false">e7cc5238-f2e9-4172-b8da-b18956547f23</guid>
-            <pubDate>Fri, 18 Mar 2016 04:04:09 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 04:09:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
