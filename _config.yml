@@ -1,4 +1,4 @@
-name: Enzo Segovia Art
+name: ENZO SEGOVIA
 favicon: null
 layout_spectrum: 0.9447708835359663
 typography_spectrum: 0.353782691527158
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#0c0c0c'
+    - '#2e2e2e'
+    - '#dcdcdc'
+    - '#595959'
+    - '#aeaeae'
   brandStrength: 0.8236109802965075
   lightness: 0.7567537298891693
   saturation: 0.3278421685099602
