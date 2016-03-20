@@ -4,21 +4,21 @@
         <description><![CDATA[ ]]></description>
         <link>https://thegrid.ai/enzo-segovia-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 21:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 21:35:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enzo-segovia-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pencil]]></title>
+            <description><![CDATA[<article><h1>Pencil</h1><p>sdfasdfasdf</p></article>]]></description>
+            <link>https://thegrid.ai/enzo-segovia-art/3877311a-f0b3-4fb5-9785-58d0dc616792/index.html</link>
+            <guid isPermaLink="false">3877311a-f0b3-4fb5-9785-58d0dc616792</guid>
+            <pubDate>Sun, 20 Mar 2016 21:35:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oil Works]]></title>
             <description><![CDATA[<article><h1>Oil Works</h1><p>caption alt</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b7441ea-484f-4618-bab1-7de58372726c.jpg"></article>]]></description>
             <link>https://thegrid.ai/enzo-segovia-art/6136c083-715c-4655-bb20-ce637fae4759/index.html</link>
             <guid isPermaLink="false">6136c083-715c-4655-bb20-ce637fae4759</guid>
             <pubDate>Sun, 20 Mar 2016 21:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pencil]]></title>
-            <description><![CDATA[<article><h1>Pencil</h1><p>sdfasdfasdf</p></article>]]></description>
-            <link>https://thegrid.ai/enzo-segovia-art/3877311a-f0b3-4fb5-9785-58d0dc616792/index.html</link>
-            <guid isPermaLink="false">3877311a-f0b3-4fb5-9785-58d0dc616792</guid>
-            <pubDate>Sat, 19 Mar 2016 17:21:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
